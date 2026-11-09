@@ -3,6 +3,14 @@
 description of throttle plugin here
 
 
+## Multiple algorithms
+
+token
+
+window
+
+## Configuration
+
 ::: amqtt.contrib.throttle.plugins.ThrottlePlugin.Config
     options:
       show_source: false
